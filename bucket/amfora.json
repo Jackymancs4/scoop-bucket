@@ -1,0 +1,24 @@
+{
+    "version": "1.5.0",
+    "homepage": "http://cmder.net",
+    "checkver": {
+        "github": "https://github.com/makeworld-the-better-one/amfora"
+    },
+    "bin": "amfora.exe",
+    "architecture": {
+        "64bit": {
+            "url": [
+                "https://github.com/makeworld-the-better-one/amfora/releases/download/v1.5.0/amfora_1.5.0_windows_64-bit.exe#/amfora.exe"
+            ],
+            "hash": [
+                "0aada905465cde0ce4e6c86a6864223a94d9db96c79d67f2e39a1fb2ec27029d"
+            ]
+        },"32bit": {
+            "url":[
+                "https://github.com/makeworld-the-better-one/amfora/releases/download/v1.5.0/amfora_1.5.0_windows_32-bit.exe"
+            ],
+            "hash": []
+        }
+    },
+    "license":"GPL-3.0-only"
+}
