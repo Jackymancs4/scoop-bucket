@@ -1,6 +1,7 @@
 {
-    "version": "1.5.0",
-    "homepage": "http://cmder.net",
+    "version": "1.7.1",
+    "homepage": "https://github.com/makeworld-the-better-one/amfora",
+    "description": "A fancy terminal browser for the Gemini protocol.",
     "checkver": {
         "github": "https://github.com/makeworld-the-better-one/amfora"
     },
@@ -8,17 +9,18 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/makeworld-the-better-one/amfora/releases/download/v1.5.0/amfora_1.5.0_windows_64-bit.exe#/amfora.exe"
+                "https://github.com/makeworld-the-better-one/amfora/releases/download/v1.7.1/amfora_1.7.1_windows_64-bit.exe#/amfora.exe"
             ],
             "hash": [
-                "0aada905465cde0ce4e6c86a6864223a94d9db96c79d67f2e39a1fb2ec27029d"
+                "8d9b3902b5541fac1a44c0e5b4535b3225fc315112c24a12aab5365cf43c3d48"
             ]
-        },"32bit": {
-            "url":[
-                "https://github.com/makeworld-the-better-one/amfora/releases/download/v1.5.0/amfora_1.5.0_windows_32-bit.exe"
+        },
+        "32bit": {
+            "url": [
+                "https://github.com/makeworld-the-better-one/amfora/releases/download/v1.7.1/amfora_1.7.1_windows_32-bit.exe#/amfora.exe"
             ],
             "hash": []
         }
     },
-    "license":"GPL-3.0-only"
+    "license": "GPL-3.0-only"
 }
